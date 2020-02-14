@@ -47,5 +47,5 @@ public class pruevaetiqueta extends JFrame {
       pruevaetiqueta applicacion = new pruevaetiqueta();
       applicacion.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
    }
-
+// puto greorio es una perra desgraciada
 } 
