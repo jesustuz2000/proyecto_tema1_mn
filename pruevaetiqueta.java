@@ -20,6 +20,7 @@ public class pruevaetiqueta extends JFrame {
      etiqueta1 = new JLabel( "etiqueta del contexto" );
       etiqueta1.setToolTipText( "esta es la etiqueta " );
       contenedor.add( etiqueta1);
+      //fytvdtujvhvctjhtfrthrhfrgdhjytsdbndstysdghdsrtdsbndstydstydsdsdty
 
       // constructor JLabel con argumento cadena , icono y aliniacion 
       Icon insecto = new ImageIcon( "insecto.jpg" );
